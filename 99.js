@@ -6,4 +6,5 @@ while (numberOfBottle > 0) {
     text = "The number is " + numberOfBottle;
     console.log(text)
     numberOfBottle--;
+//this line decrements the number of bottles
 }
